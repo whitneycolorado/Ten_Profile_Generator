@@ -1,5 +1,7 @@
 # Team Profile Generator
 
+![photo of a team of people](https://user-images.githubusercontent.com/55456375/76181868-4c31cc80-6188-11ea-9e82-6dcfa88ad5b7.png)
+
 One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. Oftentimes, how we design our code is just as important as the code itself. In this homework assignment, your challenge is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable, you will also be ensuring that all unit tests pass.
 
 Instructions
